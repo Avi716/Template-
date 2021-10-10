@@ -1,0 +1,158 @@
+
+   @media only screen and (max-width:600px){
+
+    .cls1{
+      background-color: rgb(233, 10, 133);
+    display: flex;
+    width: 100%;
+    height: 70px;
+      }
+    .cls2{
+      display: flex;
+      color: white;
+      justify-content: space-around;
+      background-color: rgb(233, 10, 133);
+      width: 100%;
+      align-items: center;
+     font-size: 30px;
+    }
+    .cls3{
+      display: flex;
+      background-color: rgb(255, 0, 55);
+      justify-content: space-around;
+      font-size: 30px;
+    }
+    .cls4{
+        color: whitesmoke;
+      background-color: rgb(233, 10, 133);
+        font-size: 30px;
+        justify-content:space-between;
+        display: flex;
+    }
+    .cls6{ 
+    margin-right: 60px;
+    margin-top: 70px;
+    }
+    .cls7{
+        padding-top: 20px;
+      align-items: center;
+    color: aliceblue;
+       width: 100%;
+      word-spacing: 10px;
+       justify-content: space-evenly;
+       font-size: 40px;
+    text-align: center;
+    }
+    .cls8{
+      background-color: deeppink;
+      width: 100%;
+        
+    }
+    .cls88{
+     width: 100%;
+    align-items: center;
+    text-align: center;
+    }
+    .sub1{
+    width: 100%;
+    height: 400px;
+    align-items: center;
+    font-size: 40px;
+    color: rgb(5, 109, 97);
+    background-color:rgb(255, 254, 196);
+    }
+    .sub2{
+      
+        width: 100%;
+        height: 400px;
+        font-size: 40px;
+        color: rgb(5, 109, 97);
+    }
+    .cls16{
+     align-items: center;
+     background-color: teal;
+     padding: 30px 0px 30px 0px;
+    color: white;
+    justify-content: space-around;
+    font-size: 30px;
+    text-align: center;
+    }
+    .cls17{
+     display: flex;
+     font-size: 25px;
+     justify-content: space-evenly;
+     color: teal;
+    }
+    .cls18{
+    display: flex;
+    font-size: 25px;
+    justify-content: space-around;
+    color: teal;
+    }
+    .cls15{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px 0px 30px 0px;
+    align-items: center;
+    }
+    .cls24{
+    align-items: center;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: darkcyan;
+    }
+    .cls25{
+    align-items: center;
+    background-color: darkcyan;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:white;
+    
+    }
+    .cls13{
+    background-color: teal;
+    
+    }
+    .head{
+    text-align: center;
+    color: wheat;
+    }
+    .cls14{
+    color: cornflowerblue;
+    
+    align-items: center;
+    
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    margin:0px 70px 0px 70px;
+    
+    }
+    .cont1{
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    }
+    .cont2{
+    background-color: white;
+    padding: 10px 10px 10px 10px;
+    }
+    .cls20{
+    color: darkcyan;
+    text-align: center;
+    }
+    .cls21{
+    color: darkcyan;
+    text-align: center;
+    }
+    .cls22{
+    color: darkcyan;
+    text-align: center;
+    }
+    .cls23{
+    color: darkcyan;
+    text-align: center;
+    }
+    }
